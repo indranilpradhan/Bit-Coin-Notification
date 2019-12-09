@@ -7,7 +7,7 @@
 import requests
 from datetime import datetime
 bitcoin_api_url = "https://api.coinmarketcap.com/v1/ticker/bitcoin/"
-ifttt_webhook_url = 'https://maker.ifttt.com/trigger/bitcoin_price/with/key/koDE4RBdvtKopL9itBTaOekyPF8_-qcl8Zzyo5Mf94M'
+ifttt_webhook_url = 'https://maker.ifttt.com/trigger/bitcoin_price/with/key/keyyyyyyy'
 
 
 # In[2]:
